@@ -5,6 +5,87 @@
     "description" : "Your home on the internet.",
     "url" : "https://mbehan-tester1.github.io/test7/"
   },
+  "theme" : {
+    "shadows" : {
+      "post" : "0 12px 0 rgba(0, 0, 0, 0.16), 0 26px 48px rgba(0, 0, 0, 0.18)",
+      "postHover" : "0 18px 0 rgba(0, 0, 0, 0.13), 0 34px 58px rgba(0, 0, 0, 0.28)",
+      "content" : "0 8px 18px rgba(0, 0, 0, 0.16)",
+      "surface" : "0 24px 60px rgba(0, 0, 0, 0.28)"
+    },
+    "colors" : {
+      "controlHoverBackground" : "rgba(255, 255, 255, 0.12)",
+      "syntaxMeta" : "#ffa657",
+      "syntaxKeyword" : "#ff7b72",
+      "surfaceBackground" : "#343536",
+      "postText" : "#17191b",
+      "syntaxComment" : "#8b949e",
+      "inverseBackground" : "#16181b",
+      "postSurfaceBackground" : "#ffffff",
+      "pageText" : "#f7f2e8",
+      "syntaxType" : "#79c0ff",
+      "inverseText" : "#f7f2e8",
+      "controlBackground" : "rgba(255, 255, 255, 0.055)",
+      "pageBackground" : "#000000",
+      "accent" : "#f8d66d",
+      "syntaxLiteral" : "#a5d6ff"
+    },
+    "radii" : {
+      "linkPreview" : "16px",
+      "linkPreviewImage" : "12px",
+      "emoji" : "20px",
+      "card" : "24px",
+      "profilePhoto" : "26px",
+      "media" : "18px",
+      "control" : "999px"
+    },
+    "postBackgrounds" : [
+      "#f8d66d",
+      "#9ee6c9",
+      "#ffb3ba",
+      "#b8d8ff",
+      "#ffd0a6",
+      "#c9f284",
+      "#f5c2ff",
+      "#ace7ef",
+      "#ffef99",
+      "#d7c7ff"
+    ],
+    "fontSizes" : {
+      "profileHeading" : "clamp(2.2rem, 3.7vw, 3.2rem)",
+      "profileBio" : "1.15rem",
+      "profileHeadingMobile" : "clamp(2.1rem, 11vw, 3.6rem)",
+      "postText" : "clamp(1.3rem, 2.6vw, 1.75rem)",
+      "postBody" : "clamp(1.02rem, 1.7vw, 1.22rem)",
+      "code" : "0.85rem",
+      "supportingText" : "1rem",
+      "postEmoji" : "3.15rem",
+      "postEmojiMobile" : "2.55rem",
+      "defaultText" : "20px",
+      "defaultTextMobile" : "18px"
+    },
+    "fontStylesheet" : "https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800;900&display=swap",
+    "fontFamily" : "\"Source Sans 3\", \"Source Sans Pro\", system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+    "colorScheme" : "dark"
+  },
+  "profile" : {
+    "bio" : "Testing things",
+    "links" : [
+      {
+        "label" : "RSS",
+        "url" : "feeds/rss.xml",
+        "emoji" : "🛰️"
+      },
+      {
+        "label" : "JSON Feed",
+        "url" : "feeds/feed.json",
+        "emoji" : "🛰️"
+      }
+    ],
+    "photoAlt" : "Placeholder silhouette for your profile photo",
+    "name" : "Michael B",
+    "location" : "Home",
+    "handle" : "mlb2000k"
+  },
   "labels" : {
     "icon" : "icon",
     "daysAgoOne" : "{count} day ago",
@@ -55,100 +136,19 @@
     "moreImagesOther" : "{count} more images",
     "rssTitle" : "{title} RSS"
   },
+  "features" : {
+    "postHandle" : false,
+    "openmoji" : false,
+    "filterByEmoji" : false,
+    "postHoverShadow" : false,
+    "postEmoji" : false,
+    "postHoverRotation" : false
+  },
   "assets" : {
     "favicon32" : "assets/site/favicons/favicon-32.png",
     "appleTouchIcon" : "assets/site/favicons/apple-touch-icon.png",
     "favicon16" : "assets/site/favicons/favicon-16.png",
     "profilePhoto" : "assets/profile.jpg",
     "shortcutIcon" : "assets/site/favicons/favicon.ico"
-  },
-  "features" : {
-    "postHandle" : false,
-    "filterByEmoji" : false,
-    "postHoverShadow" : false,
-    "openmoji" : false,
-    "postEmoji" : false,
-    "postHoverRotation" : false
-  },
-  "profile" : {
-    "handle" : "mlb2000k",
-    "links" : [
-      {
-        "label" : "RSS",
-        "url" : "feeds/rss.xml",
-        "emoji" : "🛰️"
-      },
-      {
-        "label" : "JSON Feed",
-        "url" : "feeds/feed.json",
-        "emoji" : "🛰️"
-      }
-    ],
-    "photoAlt" : "Placeholder silhouette for your profile photo",
-    "name" : "Michael B",
-    "location" : "Home",
-    "bio" : "Testing things"
-  },
-  "theme" : {
-    "fontStylesheet" : "https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800;900&display=swap",
-    "colors" : {
-      "postText" : "#17191b",
-      "surfaceBackground" : "#343536",
-      "pageText" : "#f7f2e8",
-      "controlHoverBackground" : "rgba(255, 255, 255, 0.12)",
-      "inverseBackground" : "#16181b",
-      "syntaxKeyword" : "#ff7b72",
-      "syntaxLiteral" : "#a5d6ff",
-      "pageBackground" : "#292a2b",
-      "syntaxMeta" : "#ffa657",
-      "accent" : "#f8d66d",
-      "postSurfaceBackground" : "#ffffff",
-      "syntaxComment" : "#8b949e",
-      "syntaxType" : "#79c0ff",
-      "controlBackground" : "rgba(255, 255, 255, 0.055)",
-      "inverseText" : "#f7f2e8"
-    },
-    "shadows" : {
-      "post" : "0 12px 0 rgba(0, 0, 0, 0.16), 0 26px 48px rgba(0, 0, 0, 0.18)",
-      "postHover" : "0 18px 0 rgba(0, 0, 0, 0.13), 0 34px 58px rgba(0, 0, 0, 0.28)",
-      "content" : "0 8px 18px rgba(0, 0, 0, 0.16)",
-      "surface" : "0 24px 60px rgba(0, 0, 0, 0.28)"
-    },
-    "fontSizes" : {
-      "profileHeading" : "clamp(2.2rem, 3.7vw, 3.2rem)",
-      "profileBio" : "1.15rem",
-      "profileHeadingMobile" : "clamp(2.1rem, 11vw, 3.6rem)",
-      "postText" : "clamp(1.3rem, 2.6vw, 1.75rem)",
-      "postBody" : "clamp(1.02rem, 1.7vw, 1.22rem)",
-      "code" : "0.85rem",
-      "defaultText" : "20px",
-      "defaultTextMobile" : "18px",
-      "postEmojiMobile" : "2.55rem",
-      "supportingText" : "1rem",
-      "postEmoji" : "3.15rem"
-    },
-    "fontFamily" : "\"Source Sans 3\", \"Source Sans Pro\", system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
-    "postBackgrounds" : [
-      "#f8d66d",
-      "#9ee6c9",
-      "#ffb3ba",
-      "#b8d8ff",
-      "#ffd0a6",
-      "#c9f284",
-      "#f5c2ff",
-      "#ace7ef",
-      "#ffef99",
-      "#d7c7ff"
-    ],
-    "colorScheme" : "dark",
-    "radii" : {
-      "linkPreview" : "16px",
-      "linkPreviewImage" : "12px",
-      "emoji" : "20px",
-      "card" : "24px",
-      "profilePhoto" : "26px",
-      "media" : "18px",
-      "control" : "999px"
-    }
   }
 }
