@@ -1,15 +1,17 @@
 {
-  "version": "https://jsonfeed.org/version/1.1",
-  "title": "Your site name",
-  "home_page_url": "https://example.com",
-  "feed_url": "https://example.com/feeds/feed.json",
-  "description": "Your home on the internet.",
-  "authors": [
-    {
-      "name": "Your name here",
-      "url": "https://example.com"
-    }
+  "language" : "en-IE",
+  "version" : "https://jsonfeed.org/version/1.1",
+  "feed_url" : "https://mbehan-tester1.github.io/test7/feeds/feed.json",
+  "title" : "Your site name",
+  "description" : "Your home on the internet.",
+  "items" : [
+
   ],
-  "language": "en-IE",
-  "items": []
+  "home_page_url" : "https://mbehan-tester1.github.io/test7",
+  "authors" : [
+    {
+      "name" : "Your name here",
+      "url" : "https://mbehan-tester1.github.io/test7"
+    }
+  ]
 }
