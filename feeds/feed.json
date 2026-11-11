@@ -1,41 +1,28 @@
 {
+  "home_page_url" : "https://mbehan-tester1.github.io/test7",
+  "feed_url" : "https://mbehan-tester1.github.io/test7/feeds/feed.json",
+  "items" : [
+    {
+      "authors" : [
+        {
+          "url" : "https://mbehan-tester1.github.io/test7",
+          "name" : "Michael"
+        }
+      ],
+      "content_html" : "<article>\n  <p>Testing testing</p>\n</article>",
+      "id" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
+      "url" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
+      "date_published" : "2026-11-11T12:00:00Z",
+      "summary" : "Testing testing"
+    }
+  ],
+  "description" : "Your home on the internet.",
   "version" : "https://jsonfeed.org/version/1.1",
+  "title" : "Your site name",
   "authors" : [
     {
       "url" : "https://mbehan-tester1.github.io/test7",
       "name" : "Michael"
-    }
-  ],
-  "home_page_url" : "https://mbehan-tester1.github.io/test7",
-  "feed_url" : "https://mbehan-tester1.github.io/test7/feeds/feed.json",
-  "title" : "Your site name",
-  "description" : "Your home on the internet.",
-  "items" : [
-    {
-      "date_published" : "2026-11-11T12:00:00Z",
-      "id" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
-      "content_html" : "<article>\n  <p>Testing testing</p>\n</article>",
-      "authors" : [
-        {
-          "url" : "https://mbehan-tester1.github.io/test7",
-          "name" : "Michael"
-        }
-      ],
-      "summary" : "Testing testing",
-      "url" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e"
-    },
-    {
-      "content_html" : "<article>\n  <p>New post, who dis?</p>\n</article>",
-      "summary" : "New post, who dis?",
-      "date_published" : "2026-11-11T12:00:00Z",
-      "url" : "https://mbehan-tester1.github.io/test7/index.html?post=460a9cbb-d04a-4c95-b88e-bdad01ca45d0",
-      "authors" : [
-        {
-          "url" : "https://mbehan-tester1.github.io/test7",
-          "name" : "Michael"
-        }
-      ],
-      "id" : "https://mbehan-tester1.github.io/test7/index.html?post=460a9cbb-d04a-4c95-b88e-bdad01ca45d0"
     }
   ],
   "language" : "en-IE"
