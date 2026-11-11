@@ -1,17 +1,17 @@
 {
-  "language" : "en-IE",
-  "version" : "https://jsonfeed.org/version/1.1",
+  "description" : "Your home on the internet.",
   "feed_url" : "https://mbehan-tester1.github.io/test7/feeds/feed.json",
   "title" : "Your site name",
-  "description" : "Your home on the internet.",
+  "language" : "en-IE",
   "items" : [
 
   ],
+  "version" : "https://jsonfeed.org/version/1.1",
   "home_page_url" : "https://mbehan-tester1.github.io/test7",
   "authors" : [
     {
-      "name" : "Your name here",
-      "url" : "https://mbehan-tester1.github.io/test7"
+      "url" : "https://mbehan-tester1.github.io/test7",
+      "name" : "Michael"
     }
   ]
 }
