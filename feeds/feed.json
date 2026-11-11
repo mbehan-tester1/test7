@@ -1,29 +1,29 @@
 {
-  "home_page_url" : "https://mbehan-tester1.github.io/test7",
-  "feed_url" : "https://mbehan-tester1.github.io/test7/feeds/feed.json",
+  "authors" : [
+    {
+      "name" : "Michael B",
+      "url" : "https://mbehan-tester1.github.io/test7"
+    }
+  ],
+  "version" : "https://jsonfeed.org/version/1.1",
   "items" : [
     {
       "summary" : "Testing testing",
-      "id" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
+      "url" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
       "authors" : [
         {
-          "url" : "https://mbehan-tester1.github.io/test7",
-          "name" : "Michael B"
+          "name" : "Michael B",
+          "url" : "https://mbehan-tester1.github.io/test7"
         }
       ],
-      "date_published" : "2026-11-11T12:00:00Z",
-      "url" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
-      "content_html" : "<article>\n  <p>Testing testing</p>\n</article>"
+      "id" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
+      "content_html" : "<article>\n  <p>Testing testing</p>\n</article>",
+      "date_published" : "2026-11-11T12:00:00Z"
     }
   ],
-  "description" : "Your home on the internet.",
-  "version" : "https://jsonfeed.org/version/1.1",
   "title" : "Your site name",
-  "authors" : [
-    {
-      "url" : "https://mbehan-tester1.github.io/test7",
-      "name" : "Michael B"
-    }
-  ],
-  "language" : "en-IE"
+  "description" : "Your home on the internet.",
+  "language" : "en-IE",
+  "home_page_url" : "https://mbehan-tester1.github.io/test7",
+  "feed_url" : "https://mbehan-tester1.github.io/test7/feeds/feed.json"
 }
