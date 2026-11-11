@@ -3,17 +3,17 @@
   "feed_url" : "https://mbehan-tester1.github.io/test7/feeds/feed.json",
   "items" : [
     {
+      "summary" : "Testing testing",
+      "id" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
       "authors" : [
         {
           "url" : "https://mbehan-tester1.github.io/test7",
-          "name" : "Michael"
+          "name" : "Michael B"
         }
       ],
-      "content_html" : "<article>\n  <p>Testing testing</p>\n</article>",
-      "id" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
-      "url" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
       "date_published" : "2026-11-11T12:00:00Z",
-      "summary" : "Testing testing"
+      "url" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
+      "content_html" : "<article>\n  <p>Testing testing</p>\n</article>"
     }
   ],
   "description" : "Your home on the internet.",
@@ -22,7 +22,7 @@
   "authors" : [
     {
       "url" : "https://mbehan-tester1.github.io/test7",
-      "name" : "Michael"
+      "name" : "Michael B"
     }
   ],
   "language" : "en-IE"

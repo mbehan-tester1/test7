@@ -4,7 +4,7 @@
     <title>Your site name</title>
     <link>https://mbehan-tester1.github.io/test7</link>
     <description>Your home on the internet.</description>
-    <dc:creator>Michael</dc:creator>
+    <dc:creator>Michael B</dc:creator>
     <language>en-IE</language>
     <lastBuildDate>Wed, 11 Nov 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://mbehan-tester1.github.io/test7/feeds/rss.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e</link>
       <guid isPermaLink="true">https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e</guid>
       <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
-      <dc:creator>Michael</dc:creator>
+      <dc:creator>Michael B</dc:creator>
       <description>Testing testing</description>
       <content:encoded><![CDATA[<article>
   <p>Testing testing</p>
