@@ -1,13 +1,25 @@
 [
   {
-    "emoji" : "📝",
+    "content" : [
+      {
+        "src" : "assets/posts/5b867191-54ca-4f05-a30e-7aa0d26adc2f-1.png",
+        "type" : "image",
+        "alt" : "Screenshot test"
+      }
+    ],
+    "id" : "5b867191-54ca-4f05-a30e-7aa0d26adc2f",
+    "emoji" : "📸",
+    "date" : "2026-11-15"
+  },
+  {
     "content" : [
       {
         "type" : "paragraph",
         "text" : "Testing testing"
       }
     ],
+    "id" : "1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
     "date" : "2026-11-11",
-    "id" : "1b44f7e6-3868-4bfb-8d42-9f7d2500066e"
+    "emoji" : "📝"
   }
 ]

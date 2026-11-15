@@ -1,29 +1,42 @@
 {
-  "feed_url" : "https://mbehan-tester1.github.io/test7/feeds/feed.json",
   "version" : "https://jsonfeed.org/version/1.1",
-  "description" : "Your home on the internet.",
+  "title" : "Your site name",
   "home_page_url" : "https://mbehan-tester1.github.io/test7",
-  "items" : [
-    {
-      "date_published" : "2026-11-11T12:00:00Z",
-      "id" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
-      "authors" : [
-        {
-          "url" : "https://mbehan-tester1.github.io/test7",
-          "name" : "Michael B"
-        }
-      ],
-      "content_html" : "<article>\n  <p>Testing testing</p>\n</article>",
-      "url" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
-      "summary" : "Testing testing"
-    }
-  ],
-  "language" : "en-IE",
   "authors" : [
     {
       "url" : "https://mbehan-tester1.github.io/test7",
       "name" : "Michael B"
     }
   ],
-  "title" : "Your site name"
+  "feed_url" : "https://mbehan-tester1.github.io/test7/feeds/feed.json",
+  "description" : "Your home on the internet.",
+  "language" : "en-IE",
+  "items" : [
+    {
+      "content_html" : "<article>\n  <p><img src=\"https://mbehan-tester1.github.io/test7/assets/posts/5b867191-54ca-4f05-a30e-7aa0d26adc2f-1.png\" alt=\"Screenshot test\"></p>\n</article>",
+      "date_published" : "2026-11-15T12:00:00Z",
+      "authors" : [
+        {
+          "url" : "https://mbehan-tester1.github.io/test7",
+          "name" : "Michael B"
+        }
+      ],
+      "summary" : "Screenshot test",
+      "id" : "https://mbehan-tester1.github.io/test7/index.html?post=5b867191-54ca-4f05-a30e-7aa0d26adc2f",
+      "url" : "https://mbehan-tester1.github.io/test7/index.html?post=5b867191-54ca-4f05-a30e-7aa0d26adc2f"
+    },
+    {
+      "summary" : "Testing testing",
+      "url" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
+      "content_html" : "<article>\n  <p>Testing testing</p>\n</article>",
+      "authors" : [
+        {
+          "url" : "https://mbehan-tester1.github.io/test7",
+          "name" : "Michael B"
+        }
+      ],
+      "id" : "https://mbehan-tester1.github.io/test7/index.html?post=1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
+      "date_published" : "2026-11-11T12:00:00Z"
+    }
+  ]
 }
