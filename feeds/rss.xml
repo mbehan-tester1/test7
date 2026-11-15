@@ -9,6 +9,16 @@
     <lastBuildDate>Sun, 15 Nov 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://mbehan-tester1.github.io/test7/feeds/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <link>https://mbehan-tester1.github.io/test7/index.html?post=5f4f7491-2a0a-4b06-9f51-9624257326e5</link>
+      <guid isPermaLink="true">https://mbehan-tester1.github.io/test7/index.html?post=5f4f7491-2a0a-4b06-9f51-9624257326e5</guid>
+      <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Michael B</dc:creator>
+      <description>Post by Michael B</description>
+      <content:encoded><![CDATA[<article>
+  <p><a href="https://mbehan.com/">mbehan.com</a></p>
+</article>]]></content:encoded>
+    </item>
+    <item>
       <link>https://mbehan-tester1.github.io/test7/index.html?post=e832adad-c7ee-477c-bacd-b270587243e6</link>
       <guid isPermaLink="true">https://mbehan-tester1.github.io/test7/index.html?post=e832adad-c7ee-477c-bacd-b270587243e6</guid>
       <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
