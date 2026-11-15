@@ -9,6 +9,16 @@
     <lastBuildDate>Sun, 15 Nov 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://mbehan-tester1.github.io/test7/feeds/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <link>https://mbehan-tester1.github.io/test7/index.html?post=e9f11a1c-d2bc-4cc4-8c7c-136998f1e358</link>
+      <guid isPermaLink="true">https://mbehan-tester1.github.io/test7/index.html?post=e9f11a1c-d2bc-4cc4-8c7c-136998f1e358</guid>
+      <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:creator>Michael B</dc:creator>
+      <description>A soccer game on a green field with players in blue uniforms and spectators in the stands.</description>
+      <content:encoded><![CDATA[<article>
+  <p><a href="https://mbehan-tester1.github.io/test7/assets/posts/e9f11a1c-d2bc-4cc4-8c7c-136998f1e358-video-1.mov">A soccer game on a green field with players in blue uniforms and spectators in the stands.</a></p>
+</article>]]></content:encoded>
+    </item>
+    <item>
       <link>https://mbehan-tester1.github.io/test7/index.html?post=191b851d-4417-4c87-9886-2e1a4eb8e576</link>
       <guid isPermaLink="true">https://mbehan-tester1.github.io/test7/index.html?post=191b851d-4417-4c87-9886-2e1a4eb8e576</guid>
       <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
