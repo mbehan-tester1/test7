@@ -1,33 +1,43 @@
 [
   {
+    "emoji" : "📝",
+    "date" : "2026-11-15",
     "content" : [
       {
-        "typeHint" : "video/quicktime",
-        "alt" : "A soccer game on a green field with players in blue uniforms and spectators in the stands.",
+        "type" : "quote",
+        "text" : "Only a quote"
+      }
+    ],
+    "id" : "e832adad-c7ee-477c-bacd-b270587243e6"
+  },
+  {
+    "date" : "2026-11-15",
+    "emoji" : "📸",
+    "content" : [
+      {
         "poster" : "assets/posts/e9f11a1c-d2bc-4cc4-8c7c-136998f1e358-video-1-poster.jpg",
+        "alt" : "A soccer game on a green field with players in blue uniforms and spectators in the stands.",
+        "typeHint" : "video/quicktime",
         "type" : "video",
         "src" : "assets/posts/e9f11a1c-d2bc-4cc4-8c7c-136998f1e358-video-1.mov"
       }
     ],
-    "id" : "e9f11a1c-d2bc-4cc4-8c7c-136998f1e358",
-    "emoji" : "📸",
-    "date" : "2026-11-15"
+    "id" : "e9f11a1c-d2bc-4cc4-8c7c-136998f1e358"
   },
   {
-    "emoji" : "📸",
-    "id" : "191b851d-4417-4c87-9886-2e1a4eb8e576",
-    "date" : "2026-11-15",
     "content" : [
       {
         "type" : "image",
         "alt" : "Dark photo test",
         "src" : "assets/posts/191b851d-4417-4c87-9886-2e1a4eb8e576-1.jpg"
       }
-    ]
+    ],
+    "id" : "191b851d-4417-4c87-9886-2e1a4eb8e576",
+    "emoji" : "📸",
+    "date" : "2026-11-15"
   },
   {
     "date" : "2026-11-15",
-    "id" : "e8b304d7-ff86-4ceb-8038-06b13d753346",
     "emoji" : "📸",
     "content" : [
       {
@@ -35,10 +45,10 @@
         "src" : "assets/posts/e8b304d7-ff86-4ceb-8038-06b13d753346-1.jpg",
         "alt" : "Photo test"
       }
-    ]
+    ],
+    "id" : "e8b304d7-ff86-4ceb-8038-06b13d753346"
   },
   {
-    "date" : "2026-11-15",
     "id" : "5b867191-54ca-4f05-a30e-7aa0d26adc2f",
     "emoji" : "📸",
     "content" : [
@@ -47,7 +57,8 @@
         "type" : "image",
         "alt" : "Screenshot test"
       }
-    ]
+    ],
+    "date" : "2026-11-15"
   },
   {
     "emoji" : "📝",
@@ -57,7 +68,7 @@
         "text" : "Testing testing"
       }
     ],
-    "id" : "1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
-    "date" : "2026-11-11"
+    "date" : "2026-11-11",
+    "id" : "1b44f7e6-3868-4bfb-8d42-9f7d2500066e"
   }
 ]
