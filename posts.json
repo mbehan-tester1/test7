@@ -1,6 +1,7 @@
 [
   {
     "date" : "2026-11-15",
+    "id" : "a60521f7-8d1f-464a-bf01-b5f91a067868",
     "content" : [
       {
         "tokens" : [
@@ -9,16 +10,16 @@
           }
         ],
         "code" : "just code",
-        "type" : "code",
-        "language" : "swift"
+        "language" : "swift",
+        "type" : "code"
       }
     ],
-    "id" : "a60521f7-8d1f-464a-bf01-b5f91a067868",
     "emoji" : "📝"
   },
   {
-    "date" : "2026-11-15",
     "emoji" : "📝",
+    "date" : "2026-11-15",
+    "id" : "5f4f7491-2a0a-4b06-9f51-9624257326e5",
     "content" : [
       {
         "site" : "mbehan.com",
@@ -27,8 +28,7 @@
         "url" : "https://mbehan.com/",
         "description" : "Sporadic postings of a computer enthusiast, Apple user, software engineering leader, husband / dad"
       }
-    ],
-    "id" : "5f4f7491-2a0a-4b06-9f51-9624257326e5"
+    ]
   },
   {
     "date" : "2026-11-15",
@@ -42,7 +42,6 @@
     "id" : "e832adad-c7ee-477c-bacd-b270587243e6"
   },
   {
-    "emoji" : "📸",
     "content" : [
       {
         "poster" : "assets/posts/e9f11a1c-d2bc-4cc4-8c7c-136998f1e358-video-1-poster.jpg",
@@ -53,19 +52,21 @@
       }
     ],
     "date" : "2026-11-15",
+    "emoji" : "📸",
     "id" : "e9f11a1c-d2bc-4cc4-8c7c-136998f1e358"
   },
   {
-    "id" : "191b851d-4417-4c87-9886-2e1a4eb8e576",
     "date" : "2026-11-15",
     "emoji" : "📸",
     "content" : [
       {
         "type" : "image",
-        "alt" : "Dark photo test",
-        "src" : "assets/posts/191b851d-4417-4c87-9886-2e1a4eb8e576-1.jpg"
+        "src" : "assets/posts/191b851d-4417-4c87-9886-2e1a4eb8e576-1.jpg",
+        "caption" : "Dark photo test",
+        "alt" : "Scary dude"
       }
-    ]
+    ],
+    "id" : "191b851d-4417-4c87-9886-2e1a4eb8e576"
   },
   {
     "emoji" : "📸",
@@ -80,26 +81,26 @@
     ]
   },
   {
+    "date" : "2026-11-15",
+    "id" : "5b867191-54ca-4f05-a30e-7aa0d26adc2f",
+    "emoji" : "📸",
     "content" : [
       {
         "src" : "assets/posts/5b867191-54ca-4f05-a30e-7aa0d26adc2f-1.png",
         "type" : "image",
         "alt" : "Screenshot test"
       }
-    ],
-    "id" : "5b867191-54ca-4f05-a30e-7aa0d26adc2f",
-    "date" : "2026-11-15",
-    "emoji" : "📸"
+    ]
   },
   {
-    "id" : "1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
     "date" : "2026-11-11",
-    "emoji" : "📝",
+    "id" : "1b44f7e6-3868-4bfb-8d42-9f7d2500066e",
     "content" : [
       {
         "type" : "paragraph",
         "text" : "Testing testing"
       }
-    ]
+    ],
+    "emoji" : "📝"
   }
 ]
